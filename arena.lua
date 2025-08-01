@@ -1,5 +1,7 @@
 math.randomseed(os.time())
 
+"THIS IS A TEST CAN YOU SEE THIS RYAN?"
+
 -- Clear console function
 function clear_console()
     -- Attempt to clear the console.  On Unix-like systems use "clear";
